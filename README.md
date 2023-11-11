@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leventh
 - 👀 I’m interested in web development, wordpress frontend, php backend and my actual job is network administrator  
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning html, css and python
 - 💞️ I’m looking to collaborate on people who can support & help about coding
 - 📫 How to reach me ... levent.hizbul@gmail.com
 
